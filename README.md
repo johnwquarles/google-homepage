@@ -7,3 +7,5 @@ Things to improve on:
 Nest CSS code in a more logical fashion.
 
 Make .png images grey when not hovered over; have the mic icon present its "search by voice" dialogue
+
+Made for the Odin Project: http://www.theodinproject.com/web-development-101/html-css?ref=lc-pb
